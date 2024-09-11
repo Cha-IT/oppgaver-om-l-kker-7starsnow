@@ -1,0 +1,10 @@
+#answer {
+    color: rgba(255, 0, 3, 0.541);
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-blend-mode: darken;
+    background-color: color-mix(in srgb, rgba(23, 147, 163, 0.685) 50%, rgb(156, 61, 61) 25%);
+}
